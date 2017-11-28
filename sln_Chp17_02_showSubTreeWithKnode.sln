@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nakovChp17_02_showSubTreeWithNnode", "nakovChp17_02_showSubTreeWithNnode\nakovChp17_02_showSubTreeWithNnode.csproj", "{97FC71EA-43AF-4982-8886-FE9AE53237E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nakovChp17_02_showSubTreeWithKnode", "nakovChp17_02_showSubTreeWithNnode\nakovChp17_02_showSubTreeWithKnode.csproj", "{97FC71EA-43AF-4982-8886-FE9AE53237E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
